@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91d7b063060998a429d12ef5b3c0ed8a, type: 3}
+  m_Name: Tulip(Red)
+  m_EditorClassIdentifier: 
+  Name: "\u30C1\u30E5\u30FC\u30EA\u30C3\u30D7\uFF08\u8D64\uFF09"
+  Sprite:
+    Bloom: {fileID: 21300000, guid: 06dda8e702130af4a9932ccea025e901, type: 3}
+    Sprout: {fileID: 21300000, guid: aad46390a1f29c646b041cec20b536d3, type: 3}
+    Seed: {fileID: 21300000, guid: b6dd22755d6268d40bc9b7d2c05c7f47, type: 3}
+    Shop: {fileID: 0}
+  Color: 0
+  BuyPrice: 2
+  SellPrice: 1
+  Grade: 0

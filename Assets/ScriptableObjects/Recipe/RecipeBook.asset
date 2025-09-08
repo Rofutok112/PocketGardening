@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da298698146269846a1f8a5624bc2fcc, type: 3}
+  m_Name: RecipeBook
+  m_EditorClassIdentifier: 
+  Recipes:
+  - {fileID: 11400000, guid: 1e268c322c4e34a4586adccc53dd8635, type: 2}
+  - {fileID: 11400000, guid: a167217d35e8ea94caac14e4a1df529b, type: 2}
+  - {fileID: 11400000, guid: 86a75cd9e223c5441a3589a295a94e7c, type: 2}
+  - {fileID: 11400000, guid: f5b69b15c828e6d43a1efbc23f961762, type: 2}
+  - {fileID: 11400000, guid: 2ca6fc60e9bc3a14e9b48541b40bf777, type: 2}
+  - {fileID: 11400000, guid: 34bf8205dc0d1ce47b5cd34781e316cd, type: 2}
+  - {fileID: 11400000, guid: eff0d15ace1240746ae5c666fa157d02, type: 2}
+  - {fileID: 11400000, guid: 56c5e049c23ee0d48a3dc64702f168d8, type: 2}
+  - {fileID: 11400000, guid: 2712bcc741a68504aa0e03205d74b97b, type: 2}
+  - {fileID: 11400000, guid: 99a4968e58888e54aa3fd7328de149ab, type: 2}
+  - {fileID: 11400000, guid: a554a0febc8ccb34caff4fe63cac6645, type: 2}
+  - {fileID: 11400000, guid: 65f404bef0dbac24290e6477be22c465, type: 2}
+  - {fileID: 11400000, guid: c1acf5e8ad18b6549b8a537fede564fe, type: 2}
+  - {fileID: 11400000, guid: a54b3807a7ce80a41abdbdbc85947667, type: 2}
+  - {fileID: 11400000, guid: b112329f3465d314e8c7ab4ad91e850f, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7e082148b59f724c86f899565705a2e, type: 3}
+  m_Name: Shovel
+  m_EditorClassIdentifier: 
+  ItemSprite: {fileID: 21300000, guid: d9336794b7ebeb74aab5bfb413b191c2, type: 3}
+  ItemName: "\u30B9\u30B3\u30C3\u30D7"
+  OperationType: 1
+  Price: 10
+  FlowerName: 
+  EffectAmount: 0
